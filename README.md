@@ -49,3 +49,12 @@ dotnet publish src/LevelZeroCheck.csproj -c Release -r win-x64 --self-contained 
 ## 📄 License
 
 Apache-2.0. See [LICENSE](LICENSE) for details.
+
+## Trademarks and non-affiliation
+
+Product and company names in this repository belong to their owners and are used only to say what this project works with. HF Laboratories is not affiliated with, endorsed by, or sponsored by any of them.
+
+- Intel, oneAPI, Level Zero are trademarks or registered trademarks of Intel Corporation.
+- Microsoft, .NET are trademarks or registered trademarks of Microsoft Corporation.
+
+See [hflabs.dev/legal/trademarks](https://hflabs.dev/legal/trademarks) for the full list.
